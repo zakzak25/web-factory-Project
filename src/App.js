@@ -1,10 +1,11 @@
 import React from 'react';
+import Navbar from './components/navbar';
 
 
 const App = () => {
   return(
     <div>
-      <h1>Zaki b company</h1>
+      <Navbar />
     </div>
   )
 }
